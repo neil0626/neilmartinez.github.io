@@ -1,4 +1,4 @@
-[![MasterHead](https://files.techmahindra.com/static/img/data-analytics-banner.jpg)](https://neilmartinez.github.io)
+[![MasterHead](https://files.techmahindra.com/static/img/data-analytics-banner.jpg)](https://neilangelomartinez.github.io)
 <h1 align="center">Hi 👋, I'm Neil Angelo Martinez</h1>
 <h3 align="center">An aspiring data analyst from the Philippines.</h3>
 <img alight="right" alt="Coding" width="400" src="https://media.istockphoto.com/vectors/concept-programming-coding-website-and-application-development-vector-vector-id1128413233?k=20&m=1128413233&s=170667a&w=0&h=h6Z8wnK0D9PLrMoAxV0JG_jfRQOLHm6jO6Dd6W7aC5A="
