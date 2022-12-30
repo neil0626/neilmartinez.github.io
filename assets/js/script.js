@@ -64,7 +64,6 @@ window.addEventListener("scroll", function () {
 });
 
 
-
 /**
  * SLIDER
  */
