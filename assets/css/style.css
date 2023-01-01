@@ -754,6 +754,11 @@ body.nav-active { overflow: hidden; }
 }
 
 
+@media (max-width: 600px) {
+  img {
+    max-width: 100%;
+  }
+}
 
 
 
@@ -1011,7 +1016,9 @@ body.nav-active { overflow: hidden; }
 }
 
 .tab.selected {
-  background-color: #ddd;
+  background-color: black;
+  color: white;
+  border: 1px solid black;
   }
 
 .tab:hover {
